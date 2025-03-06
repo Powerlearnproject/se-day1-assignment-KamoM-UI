@@ -5,8 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
-Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+Software engineering refers to the use of engineering concepts, techniques, and tools in the creation and maintenance of high-quality software systems. It encompasses the processes of designing, developing, testing, deploying, and maintaining software products. The significance of software engineering in the tech industry is substantial, as it facilitates the development of software applications and systems that support numerous elements of contemporary life, such as communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Firstly, the development of programming languages(e.g Python)
@@ -22,8 +21,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6)Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
- - Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
-  - Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+ - Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall. One step must be completed before we move onto the next. 
+  - Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change. 
 The waterfall method would be appropriate to use when developing a project that solves or answers issues of people/users.
 The agile method would be appropriate to use when upgrading a existing project in order to meet chnaging industry/user needs. 
 
